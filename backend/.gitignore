@@ -1,0 +1,29 @@
+# Python bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment & secrets
+.env
+*.env
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
+# Coverage / test artifacts
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDE configs
+.vscode/
+.idea/
