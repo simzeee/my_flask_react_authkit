@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import UserResponse from "./components/UserReponse"
+import UserResponse from "./components/UserResponse"
 
 import './App.css'
 
